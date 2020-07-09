@@ -7,7 +7,6 @@ public class Main {
         dog.sound();
         Cat cat = new Cat();
         cat.sound(5);
-        cat.sound();
     };
 
 }
